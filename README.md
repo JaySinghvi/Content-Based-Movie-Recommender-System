@@ -4,3 +4,5 @@
 3. Created an advanced recommendation function to identify and suggest similar movies based on user queries, ensuring relevance and accuracy.
 4. Designed and implemented a user-friendly web application with PyCharm and Streamlit, seamlessly integrating the frontend with the Python backend.
 5. Enhanced the application by incorporating movie posters from the TMDB API, providing an engaging visual experience alongside movie recommendations.
+
+(I couldn't add some files due to restriction on the file size)
