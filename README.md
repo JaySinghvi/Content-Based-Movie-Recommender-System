@@ -30,3 +30,11 @@ This project analyzes movie metadata (like genres, keywords, overview, etc.) to 
    git clone https://github.com/JaySinghvi/Content-Based-Movie-Recommender-System.git
    cd Content-Based-Movie-Recommender-System
 
+2. Install the Dependencies:
+`pip install -r requirements.txt`
+
+3. Launch Streamlit app:
+`streamlit run app.py`
+
+![image](https://github.com/user-attachments/assets/62de36ae-c59c-4340-9110-3449b960b1a7)
+
