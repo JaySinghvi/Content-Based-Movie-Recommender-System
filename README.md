@@ -6,8 +6,6 @@ A content-based movie recommendation system that suggests similar movies based o
 
 This project analyzes movie metadata (like genres, keywords, overview, etc.) to generate personalized movie recommendations. It uses TF-IDF vectorization and cosine similarity to match user-selected movies with similar ones. The frontend is powered by Streamlit, and real-time movie posters are fetched using the TMDB API.
 
-👉 [View the complete project on GitHub](https://github.com/JaySinghvi/Content-Based-Movie-Recommender-System)
-
 ## 🧠 Methodology
 
 - **Data Preprocessing**: Cleaned and merged metadata fields such as genres, keywords, and movie overviews.
